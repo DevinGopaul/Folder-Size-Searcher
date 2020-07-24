@@ -17,7 +17,7 @@ If you have an IDE that can run Java programs, you can just open `ProjectFiles/s
 Otherwise, open a terminal/command-line window, and change the directory to the location of the cloned repository.
 Then, enter:
 ```
-cd folderSizeSearcher/src
+cd ProjectFiles/src
 ```
 If you haven't compiled this code since you cloned it or last git pulled it, you should compile the Java files before running them by entering:
 ```
