@@ -37,5 +37,5 @@ Then, wait for the program to finish analyzing the results. You can see the stat
 # Credits:
 This program was written by:<br>
 [Devin Gopaul](https://github.com/DevinGopaul)<br>
-Sources that were referred to while marking this program include:<br>
+Sources that were referred to while making this program include:<br>
 [Java Documentation](https://docs.oracle.com/en/java/javase/14/docs/api/)
